@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScoreList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scores>
+    <Score>
+      <CurrentScore>0</CurrentScore>
+      <Date>2024-12-20T12:23:38.8124394+01:00</Date>
+    </Score>
+    <Score>
+      <CurrentScore>1</CurrentScore>
+      <Date>2024-12-20T13:25:47.0511975+01:00</Date>
+    </Score>
+    <Score>
+      <CurrentScore>1</CurrentScore>
+      <Date>2024-12-20T13:25:54.6399887+01:00</Date>
+    </Score>
+    <Score>
+      <CurrentScore>3</CurrentScore>
+      <Date>2024-12-20T13:26:00.6392319+01:00</Date>
+    </Score>
+    <Score>
+      <CurrentScore>1</CurrentScore>
+      <Date>2024-12-20T13:58:00.9472203+01:00</Date>
+    </Score>
+  </Scores>
+</ScoreList>

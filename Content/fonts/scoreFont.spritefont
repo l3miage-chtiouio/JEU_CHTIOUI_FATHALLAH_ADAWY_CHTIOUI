@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="http://schemas.microsoft.com/xna/2006/content">
+  <Asset Type="Microsoft.Xna.Framework.Content.Pipeline.Graphics.FontDescription">
+    <FontName>scoreFont</FontName> <!-- Nom du fichier de police-->
+    <Size>25</Size>                        
+    <Spacing>0</Spacing>  <!-- espacement entre les caractères -->
+    <Style>Regular</Style>                 
+    <CharacterRegions>
+      <CharacterRegion>
+        <Start>32</Start>  <!-- Code ASCII du premier caractère -->
+        <End>126</End>     <!-- Code ASCII du dernier caractère -->
+      </CharacterRegion>
+    </CharacterRegions>
+  </Asset>
+</XnaContent>
